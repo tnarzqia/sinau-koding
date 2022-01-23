@@ -1,0 +1,5 @@
+vue create namaproject
+cd namaproject
+npm run serve
+kunjungi localhost vue
+sudo npm install -g @vue/cli => install vue <= bisa juga menggunakan seperti ini => sudo yarn global add @vue/cli
